@@ -7,20 +7,20 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         body {
-            background-color: #add8e6; /* Azul claro */
+            background-color: #add8e6; 
         }
         .form-container {
-            max-width: 500px; /* Largura máxima das caixas */
-            margin: auto; /* Centraliza */
+            max-width: 500px; 
+            margin: auto; 
         }
         .header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 20px; /* Espaço abaixo do cabeçalho */
+            margin-bottom: 20px; 
         }
         .header img {
-            height: 60px; /* Ajuste o tamanho da imagem conforme necessário */
+            height: 60px; 
         }
     </style>
 </head>
